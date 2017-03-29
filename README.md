@@ -1,0 +1,2 @@
+# smelly-cat
+Lamest repository
